@@ -1,0 +1,14 @@
+Hello world!
+The 5th fibonacci number is: 5
+The 7th fibonacci number is: 13
+Here's a triangle:
+
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
