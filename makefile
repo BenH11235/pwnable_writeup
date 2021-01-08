@@ -1,10 +1,15 @@
-demos: fd_demo hash_demo
+booklet: a_first_introduction_to_system_exploitation.tex demos
+	pdflatex a_first_introduction_to_system_exploitation.tex
 
-hash_demo: hash_demo.py
-	hash_demo.py > hash_demo.out
+demos: fd_demo hash_demo xxd_demo
 
-fd_demo: fd_demo.c
-	gcc -o fd_demo fd_demo.c
+hash_demo: ./code/hash_demo.py
+	./code/hash_demo.py > ./code/hash_demo.out
 
-xxd_demo: xxd_demo
-	xxd xxd_demo > xxd_demo.hex
+fd_demo: ./code/fd_demo.c
+	gcc -o ./code/fd_demo ./code/fd_demo.c
+
+xxd_demo: ./code/xxd_demo
+	xxd ./code/xxd_demo > ./code/xxd_demo.hex
+
+

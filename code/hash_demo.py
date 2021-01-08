@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 from hashlib import sha256
 
 message = b"hello world"
