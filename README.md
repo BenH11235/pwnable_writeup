@@ -13,4 +13,8 @@ This is why we Love, with a capital L, a well-motivated CTF exercise with a thor
 
 Georgia Tech’s “Toddler’s Bottle” exercises are very close to the ideal of a well-motivated exploitation CTF exercise – they are short, distilled and to the point. To complement them, we’ve authored the below-linked document — a sequence of guided solutions and lecture notes that walk the reader through the challenges, provide context and perspective and try to live up to the ideal described above.
 
-So, “Where do I start?” — there really is no straightforward solution, but hopefully this guide will get you going. Good luck!
+So, “Where do I start?” — there really is no straightforward solution, but hopefully this guide will get you going. Good luck! You can find the rendered PDF in the "releases" section.
+
+# Changelog
+
+2021-04-14: Minor grammar fix, make the rendered pdf a release rather than keeping it inside the repo like a plebe.
