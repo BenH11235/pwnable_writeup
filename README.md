@@ -15,7 +15,7 @@ Georgia Tech’s “Toddler’s Bottle” exercises are very close to the ideal 
 
 So, “Where do I start?” — there really is no straightforward solution, but hopefully this guide will get you going. Good luck! You can find the rendered PDF in the "releases" section.
 
-$ Getting the PDF
+# Getting the PDF
 
 Head on to the "releases" section to get the latest version of the PDF.
 
