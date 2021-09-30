@@ -15,6 +15,12 @@ Georgia Tech’s “Toddler’s Bottle” exercises are very close to the ideal 
 
 So, “Where do I start?” — there really is no straightforward solution, but hopefully this guide will get you going. Good luck! You can find the rendered PDF in the "releases" section.
 
+$ Getting the PDF
+
+Head on to the "releases" section to get the latest version of the PDF.
+
+If you'd rather make the PDF from source: clone or download the repository and from your local repo copy run `make booklet`. If prompted for missing latex dependencies, install them.
+
 # Changelog
 
 2021-04-14: Minor grammar fix, make the rendered pdf a release rather than keeping it inside the repo like a plebe.
